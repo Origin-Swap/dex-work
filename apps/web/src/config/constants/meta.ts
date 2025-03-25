@@ -5,7 +5,7 @@ import { PageMeta } from './types'
 export const DEFAULT_META: PageMeta = {
   title: 'Tektias DEX',
   description: 'The first DEFI AMM built on Monad Network.',
-  image: 'https://i.ibb.co.com/2gsPZGZ/Meta-Banner.png',
+  image: 'https://pbs.twimg.com/card_img/1902719472861102080/uCnEVoK4?format=jpg&name=900x900',
 }
 
 interface PathList {
