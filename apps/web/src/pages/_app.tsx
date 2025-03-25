@@ -69,8 +69,8 @@ function MyApp(props: AppProps<{ initialReduxState: any }>) {
           content="Tektias, the leading DEX on Monad Chain with the best farms in DeFi and a lottery for TKT Tokens."
         />
         <meta name="theme-color" content="#1FC7D4" />
-        <meta name="twitter:image" content="https://i.ibb.co/z5QKnmV/twitter-banner.png" />
-        <meta name="twitter:description" content="The new DeFi AMM on OnlyLayer!" />
+        <meta name="twitter:image" content="https://pbs.twimg.com/card_img/1902719472861102080/uCnEVoK4?format=jpg&name=900x900" />
+        <meta name="twitter:description" content="The new DeFi AMM on Monad Chain!" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Tektias - A Decentralized exchange built on the Monad network." />
         <title>Tektias DEX</title>
