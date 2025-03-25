@@ -1,6 +1,6 @@
 import { Language } from "../LangSelector/types";
 import { FooterLinkType } from "./types";
-import { TwitterIcon, TelegramIcon, RedditIcon, InstagramIcon, GithubIcon, DiscordIcon, MediumIcon } from "../Svg";
+import { TwitterIcon, TelegramIcon, DiscordIcon, MediumIcon } from "../Svg";
 
 export const footerLinks: FooterLinkType[] = [
   {
@@ -80,12 +80,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://twitter.com/OnlyFinance01",
-  },
-  {
-    label: "Discord",
-    icon: DiscordIcon,
-    href: "https://discord.com/invite/6q8a49b5xu",
+    href: "https://x.com/tektias",
   },
    {
     label: "Telegram",
@@ -93,11 +88,11 @@ export const socials = [
     items: [
       {
         label: "Global",
-        href: "https://discord.gg/M5RP4eAvsv",
+        href: "https://t.me/tektiasglobal",
       },
       {
         label: "Announcements",
-        href: "https://t.me/towerfiAnn",
+        href: "https://t.me/tektias",
       },
     ],
   },
