@@ -1,0 +1,46 @@
+{
+  "name": "Pancake Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped MONAD",
+      "symbol": "WMON",
+      "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://img.cryptorank.io/coins/monad1710498467135.png"
+    },
+    {
+      "name": "Tektias USD",
+      "symbol": "TUSDT",
+      "address": "0xeBc8334B0DDBcbFE840fB3E3FA9A91EaCf859155",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "name": "Tektias USDC",
+      "symbol": "TUSDC",
+      "address": "0x0a256796e6ce1B722958cC52181263a9114117C2",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://images.seeklogo.com/logo-png/40/2/usd-coin-usdc-logo-png_seeklogo-408043.png"
+    },
+    {
+      "name": "Tektias Token",
+      "symbol": "TKT",
+      "address": "0x365efc5C4Aef4b5b354C322585FE2aFc7794D258",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/k5cz795c/logo.png"
+    }
+  ]
+}
