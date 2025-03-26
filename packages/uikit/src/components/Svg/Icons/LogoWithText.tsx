@@ -6,7 +6,7 @@ import { SvgProps } from "../types";
 const Logo: React.FC<React.PropsWithChildren<SvgProps>> = (props) => {
   return (
     <Svg viewBox="0 0 1281 300" {...props}>
-      <image width="1281" height="300" href="https://i.postimg.cc/GtD7S2mb/Logo-Text4.png"/>
+      <image width="1281" height="300" href="https://app.tektias.xyz/images/LogoText4.png"/>
     </Svg>
   );
 };
